@@ -1,11 +1,10 @@
 # spotify-clone
+This is my another project,it is a basic Spotify clone created as part of my coding journey, using HTML, CSS, and JavaScript. The project showcases my front-end web development skills through a responsive and user-friendly web application that allows music playback. I designed the interface with HTML and CSS, and implemented JavaScript for user interactions like play, pause, and next controls. Additionally, you gained experience with version control using Git and GitHub.
 
-I used Html Css Scss and JavaScript components for this project.
-
-# Features:
-- Responsive Design
-- Classified Design Component 
-- Simple User Interface 
+#Features:
+- Responsive Design: Adapts to various screen sizes.
+- Classified Design Components: Organized interface elements for clarity.
+- Simple User Interface: Intuitive controls for easy navigation.
 
 # Screenshot 01
 
